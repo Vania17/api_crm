@@ -1,0 +1,68 @@
+{
+  "clientes": [
+    {
+      "nombre": "Vania ACTUALIZADO",
+      "empresa": "Guatemala",
+      "email": "v4nm4r@gmail.com",
+      "telefono": "32972651",
+      "notas": "notaaaaas wow",
+      "id": 1
+    },
+    {
+      "nombre": "Lulu",
+      "empresa": "empresita",
+      "email": "lulu@lulu.com",
+      "telefono": "452446418",
+      "notas": "Lulu quiere pastel",
+      "id": 2
+    },
+    {
+      "nombre": "Pepito",
+      "empresa": "Pepitos S.A.",
+      "email": "pepito@pepito.com",
+      "telefono": "52587463",
+      "notas": "Pepito tiene sueño",
+      "id": 3
+    },
+    {
+      "nombre": "Vania Maria",
+      "empresa": "Guatemala",
+      "email": "v4nm4r@gmail.com",
+      "telefono": "32972651",
+      "notas": "notas",
+      "id": 5
+    },
+    {
+      "nombre": "Pipilu",
+      "empresa": "pipilu s.a.",
+      "email": "pipilu@pipilu.com",
+      "telefono": "52548789",
+      "notas": "es una perrita bonita",
+      "id": 7
+    },
+    {
+      "nombre": "Mono",
+      "empresa": "mono loco",
+      "email": "mono@mono.com",
+      "telefono": "",
+      "notas": "",
+      "id": 8
+    },
+    {
+      "nombre": "Mono",
+      "empresa": "mono loco",
+      "email": "mono@mono.com",
+      "telefono": "",
+      "notas": "",
+      "id": 9
+    },
+    {
+      "nombre": "Paola",
+      "empresa": "Pao S.A.",
+      "email": "pao.bh4@gmail.com",
+      "telefono": "54587965",
+      "notas": "Pao y su empresa de plantas",
+      "id": 10
+    }
+  ]
+}
